@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://okx-spacex-perp.vercel.app/sitemap.xml
